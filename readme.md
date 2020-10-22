@@ -29,9 +29,20 @@ L'assistant technique doit se connecter à l'aide d'un mot de passe générique 
 `L'assistant technique voit un tableau des tickets et peut les filtrer par statut "nouveau / en cours / terminé".`
 
 
+___________________________
+
+
+
+
 
 ___________________________
 
+On a créer les sélections de catégories dans index.php 
+
+il faut maintenant créer les liens sur lkes catégories pour amener aux tickets correspondant à la catégorie
+
 on va commencer par créer les ticket puis les réponses 
+
+
 
 puis les user et le support.

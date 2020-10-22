@@ -1,10 +1,9 @@
-
 <?php
 
 require_once "config/db_connect.php";
 require_once "tools/outils__perso__jonas__.php";
 
-// ------------------  Afficher les categories  -----------------
+// ------------------  Afficher les tickets  -----------------
     //pre_var_dump('coucou');
         
 $req_categorie = "SELECT * FROM categorie";
@@ -39,15 +38,3 @@ while ($row_categorie = mysqli_fetch_assoc($res_categorie)) {
 ?>
 <!--// -----------------   FIN PHP   ------------------------- -->
 
-<!--// --------------------   HTML   ------------------------- -->
-
-<html>
-	<head></head>
-	<body>
-		
-
-    <?php
-
-    ?>
-    </body>
-</html>
