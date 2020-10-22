@@ -30,3 +30,8 @@ L'assistant technique doit se connecter à l'aide d'un mot de passe générique 
 
 
 
+___________________________
+
+on va commencer par créer les ticket puis les réponses 
+
+puis les user et le support.
