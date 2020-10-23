@@ -1,4 +1,4 @@
-# DOCUMENTATION : 
+# DOCUMENTATION : ¯\_ツ_/¯
 
 `   ...   ` => sert à colorer le texte 
 
