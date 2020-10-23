@@ -83,6 +83,6 @@ while ($row_ticket = mysqli_fetch_assoc($res_ticket)) {
     <title>FORUM - TICKET</title>
 </head>
 <body>
-    
+
 </body>
 </html>
